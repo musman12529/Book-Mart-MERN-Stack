@@ -1,3 +1,6 @@
+# Still working on adding few features mentioned below.
+
+
 # Book Mart: Your Ultimate Bookstore
 
 Welcome to Book Mart, your go-to destination for discovering and buying books online! With Book Mart, you can explore a vast collection of books, add them to your wishlist, and purchase them hassle-free.
