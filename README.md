@@ -44,7 +44,6 @@ Welcome to Book Mart, your go-to destination for discovering and buying books on
 - npm install
 
 
-5. Open your web browser and go to `http://localhost:3000` to start exploring and buying books.
 
 ## Usage
 
